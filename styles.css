@@ -1,0 +1,16 @@
+body{
+	font-family: Arial, sans-serif;
+	line-height: 1.6em;
+}
+.titlebar{
+	background-color:#697D8E;
+	color:white;
+	font-size:40px;
+}
+.bottombar{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color:#697D8E;
+	color:white;
+}
